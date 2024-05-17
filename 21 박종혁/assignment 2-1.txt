@@ -1,0 +1,11 @@
+commit a51e496274fbac8c232bc36cbf52d50d3af023e1 (HEAD -> master)
+Author: requin0221 <landshark007@naver.com>
+Date:   Sat May 18 02:53:44 2024 +0900
+
+    21 박종혁 assignment 2-2
+
+commit 02940b60654748c675daef13d3faade321f33ed4
+Author: requin0221 <landshark007@naver.com>
+Date:   Sat May 18 02:46:21 2024 +0900
+
+    21 박종혁 assignment 2-1
